@@ -1,7 +1,7 @@
-- 👋 Ciao io sono @federicoclaps
-- 👀 I’m interested in informatica, programmazione
+- 👋 Ciao sono @federicoclaps
+- 👀 Sono un'appasionato diinformatica, programmazione
 - 🌱 Sono uno studente di "Scienze e tecnologie informatiche" presso l'Università degli studi della Basilicata
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 federico.claps@studenti.unibas.it
 
 <!---
